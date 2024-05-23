@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.name{
+    margin-top: 20px;
+    justify-content: center;
+    display: flex;
+    border-bottom: 1px solid rgb(113, 112, 112);   
+}
+.title{
+    justify-content: center;
+    display: flex;
+    border-bottom: 1px solid rgb(113, 112, 112);   
+
+}
+
+.top{
+    display: flex;
+   
+}
+.about{
+    margin-left: 380px;
+}
+.middle{
+   display: flex;
+}
+.experience{
+    margin-left: 530px;
+}
+.bottom{
+    display: flex;
+}
+.jobtitle{
+    margin-left: 90px;
+}
